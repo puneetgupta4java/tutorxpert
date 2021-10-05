@@ -1,5 +1,5 @@
 # Tutorxpert
-This repository consists of a web application which can be directly used in the real world.
+This repository consists of a webapp which can be directly used in the real world.
 
 This web application is focusing on scheduling online tution coaching classes in the locality.
 
